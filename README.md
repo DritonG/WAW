@@ -1,5 +1,5 @@
 # Einführung
 
-Dieses Repository beinhaltet die Pflichtübungen für die Veranstaltung **Webanwendungen**.
+Hallo ich habe es geschafft bei dir zu pullen.
 
 
