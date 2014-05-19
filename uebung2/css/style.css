@@ -1,0 +1,153 @@
+    body{
+      background-color:rgb(153,217,234);
+      font-weight: bold;
+      font-family: Arial Black;
+      }
+
+      div.heading{
+      font-size: 20px;
+      }
+
+      div.subheading{
+      font-height: 12px;
+      }
+
+      form.form-horizontal{
+      font-size: 12px;
+      margin-top: 110px;
+      }
+
+      .input-mysize{
+      height: 25px;
+      }
+
+      .form-horizontal .control-label{
+      text-align:left;
+      }
+
+      div.anmeldung{
+      margin-top:110px;
+      }
+
+      div.button-margin{
+      margin-top: 50px;
+      }
+
+      div.logo{
+      margin-top:30px;
+      }
+
+      div.reference{
+      margin-top: 40px;
+      text-align: center;
+      }
+
+      div.details{
+      margin-top: 40px;
+      }
+
+
+      /* css der Detail Dateien */
+
+      div.contentDetail{
+      margin-top: 110px;
+	font-size: 22px;
+      }
+
+      div.headingDetail{
+      text-align: center;
+      font-size: 25px;
+      }
+
+	div.auswahlreihe{
+	margin-top: 5%;
+	}
+
+      div.kostentabelle{
+	margin-top: 10%;
+	font-size: 14px;
+      }
+	div.auswahlreihe .col-md-6, .col-md-5{
+	text-align: center;
+	padding: 0;
+	}
+
+	div.kostentabelle .table, .table .thead{
+	text-align: center;
+	border: 2px solid #888;
+	margin-left: 4%;
+	}
+
+     /* css der Detail Messe Tabellen */
+
+div.table-bordered {
+  border: 1px solid #ddd;
+  font-size: 20px;
+  width: 100%;
+  border-collapse: collapse;
+  display: table;
+}
+
+div.table-bordered > div span {
+  border: 1px solid #ddd;
+  padding: 8px;
+  width: 400px;
+  vertical-align: middle;
+  line-height: 1.4285;
+  display: table-cell;
+  box-sizing: border-box;
+  position: relative;
+
+}
+div.table-bordered > div {
+  display: table-row;
+  height: 100px;
+  vertical-align: inherit;
+}
+
+div.div-table {
+  width: 100px;
+}
+
+      /* css der einzelnen Messe Datein */  
+
+
+      div.headingMesse{
+      font-size: 22px;
+      text-align: center;
+      margin-top:50px;
+      }    
+
+      div.subheadingMesse{
+      font-height: 16px;
+      text-align: left;
+      }
+
+      div.infofeldMesse{
+      margin-top: -40px;
+      }
+
+      div.contentMesse{
+      margin-bottom: 40px;
+      }
+
+	
+      /* Messe css in index.html */
+
+      div.messe{
+      margin-top: 140px;
+      }
+
+      div.messeheading{
+      font-size: 14px;
+      text-align: center;
+      }
+
+      div.messesubheading{
+      font-size: 12px;
+      text-align: center;
+      }
+
+
+
+
