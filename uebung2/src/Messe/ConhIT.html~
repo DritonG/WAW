@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>CeBit</title>
+    <title>ConhIT</title>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
@@ -29,13 +29,14 @@
 
         <div class="col-md-6 col-md-offset-1">
           <div class="headingMesse">
-            <p>Informationen zu CeBit<p>
+            <p>Informationen zu ConhIT<p>
           </div>
         </div>
 
         <div class="logo col-md-2 col-md-offset-3">
           <img src="./../../img/Logo.png" class="img-rounded" alt="logo">
         </div>
+
       </div>
 
 
@@ -47,19 +48,23 @@
               <div class="infofeldMesse">
 
                 <div class="col-md-4">
-                  <div class="subheadingMesse">
+
+                 <div class="subheadingMesse">
                     <p>
-                      Die CeBIT (Akronym für Centrum für Büroautomation, Informationstechnologie und Telekommunikation,
-                      ursprünglich Centrum der Büro- und Informationstechnik) ist die weltweit größte Messe für
-                      Informationstechnik und findet seit 1986 jedes Frühjahr auf dem Messegelände Hannover statt.
-                      Veranstalter der CeBIT ist die Deutsche Messe AG (DMAG).
+                      In den vier Seminaren der conhIT-Akademie 2014 entwickeln Sie, ob Anwender oder Anbieter,
+                      gemeinsam mit Experten konkrete Lösungswege und innovative
+                      Strategieansätze zu aktuellen Fragen der Healthcare IT: <br/>
+                      6. Mai 2014 | 9.00 -13.00 Uhr<br/>
+                      Datenmanagement der nächsten Generation mit IHE<br/>
+                      7. Mai 2014 | 9.00 -13.00 Uhr<br/>
+                      App-Entwicklung “hands-on” für das Gesundheitswesen
                     </p>
                   </div>
 
                   <br/><br/>
 
                   <div class="text-center">
-                    <img src="./../../img/Cebit1.jpg" class="img-thumbnail" alt="cebit1">
+                    <img src="./../../img/ConhIT1.jpg" class="img-thumbnail" alt="conhit1">
                   </div>
 
                 </div>
@@ -69,23 +74,23 @@
                 <div class="row">
                   <div class="col-md-4">
                     <div class="text-center">
-                      <img src="./../../img/Cebit2.JPG" class="img-thumbnail" alt="cebit2">
+                    <img src="./../../img/ConhIT2.jpg" class="img-thumbnail" alt="conhit2">
                     </div>
 
-		    <br/><br/>
+                  <br/><br/>
 
-                    <p>
-                      Der größte Aussteller in der CeBIT-Halle war
-		      1970 die Firma Olympiawerke aus Wilhelmshaven, der Marktführer der 1970er Jahre.
-                      Höhepunkt war die Neuvorstellung der Datenerfassungsmaschine Olympia Multiplex 80.
-		      Schnell waren die Platzkapazitäten der riesigen Halle 1 erschöpft.
-		      Deshalb stellte die Deutsche Messe AG Ende der 1970er
-		      Jahre den DV-Ausstellern zusätzlich die Hallen 2 und 18 sowie Anfang der
-		      1980er Jahre die Halle 3 zur Verfügung,
-		      doch auch diese Maßnahmen erwiesen sich bald als unzureichend.
-                    </p>
-                  </div>
+                  <p>
+                    Der Kongress ist ein wichtiger Bestandteil für Aussteller und Besucher,
+                    um sich im Rahmen der conhIT auf den aktuellen Stand zu bringen.
+                    Dabei stehen insbesondere praxisorientierte Vorträge im Vordergrund.
+                    Um den Wünschen der conhIT-Beteiligten, die mit Hilfe der 2013 neu
+                    eingeführten Votingtools ermittelt wurden, gerecht zu werden, wurde der conhIT-Kongress weiter ausgebaut.
+                    Ab 2014 werden in drei statt in zwei Sälen unter dem Kongressmotto „Moderne Gesundheitsversorgung mit IT“
+                    insgesamt 18 Kongresssessions zu den wichtigsten Themen der Branche durchgeführt.
+                  </p>
+
                 </div>
+               </div>
 
               </div> <!-- infofeldMesse -->
             </div>
@@ -93,8 +98,7 @@
         </div>
 
         <!-- Zurück Button -->
-        <a href="../index.html" class="btn btn-default">Zurück</a>
-
+        <a href="../../index.html" class="btn btn-default">Zurück</a>
 
       </form>
     </div> <!-- container -->
