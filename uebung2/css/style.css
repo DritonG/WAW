@@ -148,6 +148,15 @@ div.div-table {
       text-align: center;
       }
 
+/*Tabs in die richtige farbe wechseln*/
+.nav-tabs>li.active>a{
+color: white;
+background-color: blue;
+}
 
+/*die schriftfarbe der TableHeader --> Blue*/
+div.table-bordered#header{
+color: blue;
+}
 
 
